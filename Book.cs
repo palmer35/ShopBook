@@ -25,7 +25,7 @@
 
         public void Puk()
         {
-            Console.WriteLine("puk");
+            Console.WriteLine("puk......");
         }
     }
 }
